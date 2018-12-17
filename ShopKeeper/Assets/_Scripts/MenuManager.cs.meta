@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 395bd8a7d1e1c0d4b9481bdca9d650f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controls: {instanceID: 0}
+  - startButton: {fileID: 114955169726512846, guid: 7f82ce8570ea4eb4ab6b8b1d5a9921d1,
+      type: 2}
+  - controlsButton: {fileID: 114554321828546902, guid: b19b3c0581f88114fb7124f04a1852fa,
+      type: 2}
+  - endlessButton: {fileID: 114202952292770690, guid: e0389309f77c5f549a67c200a6a242a3,
+      type: 2}
+  - normalButton: {fileID: 114331674505336440, guid: 6e18974092b48804880acca9f484bf2b,
+      type: 2}
+  - EasyButton: {fileID: 114463006229123056, guid: 70f5e4ab72ca3cd4387be29f72540a01,
+      type: 2}
+  - MediumButton: {fileID: 114442439688457736, guid: 701028a0074d1f746ab76c68ee9916c6,
+      type: 2}
+  - HardButton: {fileID: 114820287800031814, guid: 8610fc8e0ce5e984392ed2182cc1a00e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

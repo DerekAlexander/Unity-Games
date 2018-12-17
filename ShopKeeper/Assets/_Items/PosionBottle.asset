@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164c94dd65bc6904cac92a94185ba434, type: 3}
+  m_Name: PosionBottle
+  m_EditorClassIdentifier: 
+  itemName: PosionBottle
+  description: good for killing humans
+  icon: {fileID: 21300000, guid: 8c7ec57375f9db9429780da81d658145, type: 3}
+  DefaultItem: {fileID: 11400000, guid: 79a1a1e0e9cec4e4b9345f48218e2dcc, type: 2}
+  buyValue: 12
+  sellValue: 24

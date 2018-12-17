@@ -1,0 +1,72 @@
+thinks chest interactable
+need direction to sell spot
+thinks tab is inventory never found
+found bug dammit
+by half time has 665
+**** to many item down must have switch!!
+clicks sell spot to switch
+by end has 665 curreny still cause of bug. 
+uses chest for storage 
+
+
+here down talking to him/his ideas
+
+helemet name issue / reaper :FIXED
+
+controls while playing based on button :FIXED 
+currency text :FIXED
+though chest was trash
+stay zoom says good management mechanic has to talk to people
+shop displays is a shop
+button inventory not key based
+
+---------------------------------------------
+
+button hover on gameplay should stop when not hovering
+
+place from distance
+
+clicked on npc to sell
+
+try to drag and drop onto spot
+
+text behind windows :FXIEDISH
+
+missing point loses interest after reaching goal number/ missing fun. niche issue?
+
+item stacking (possible to do with an int itemstacknum? )
+
+npc poof not leaving gracefully
+
+info bigger
+
+lower timer 
+
+** maybe endless mode.
+
+--------------------------------------------------
+
+controls again
+
+uses chest for storage
+
+wanted to go right
+
+sees description?
+
+npc poof
+
+table collider needed
+
+chest collide
+
+
+
+BY IMPORTANCE:
+1. controls on game screen accessable at all times by button. : DONE
+2. info screen has screenshot with drawings to show game play loop/ how to play 
+3. timer settings choosen before play. effects how much money is needed. 
+4. text at top of inventory and store menu declaring what they are. : DONE
+5. would like to have item switching. possible to leave as is as a mechanic.
+6. chest needs collider and probably a use case. *either trash can. *maybe sell back at 75% of buy cost. : DONE USED CARDBOARD BOX
+7. maybe table colliders.
