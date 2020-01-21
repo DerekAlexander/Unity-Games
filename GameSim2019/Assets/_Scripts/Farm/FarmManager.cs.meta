@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3f78c257d87174418d9e1e411d1aa39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - baseBlob: {fileID: 1712008766734770, guid: 1bb7e850afe13904aa01052c74f64667, type: 3}
+  - speedBlob: {fileID: 1712008766734770, guid: e6465dc9b235c964dbf9acf33c18c372,
+      type: 3}
+  - powerBlob: {instanceID: 0}
+  - glideBlob: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

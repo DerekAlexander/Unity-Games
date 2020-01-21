@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 0287757b87da3164786ef3b639b7ad05
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: HeadTop_End
+    100006: Hips
+    100008: Jaw
+    100010: Jaw_End
+    100012: LefLeg
+    100014: LefLeg 1
+    100016: Left_Shoulder_jnt
+    100018: LeftFoot
+    100020: LeftForeArm
+    100022: LeftHand
+    100024: LeftHandIndex1
+    100026: LeftHandIndex2
+    100028: LeftHandIndex2 1
+    100030: LeftHandIndex3
+    100032: LeftHandIndex3 1
+    100034: LeftHandIndex4
+    100036: LeftHandIndex4 1
+    100038: LeftHandIndex6
+    100040: LeftHandMiddle1
+    100042: LeftHandMiddle2
+    100044: LeftHandMiddle3
+    100046: LeftHandMiddle4
+    100048: LeftHandPinky1
+    100050: LeftHandPinky2
+    100052: LeftHandPinky3
+    100054: LeftHandPinky4
+    100056: LeftToeBase
+    100058: LeftToeBase_End
+    100060: LeftUpLeg
+    100062: Neck
+    100064: Neck1
+    100066: PowerMonster
+    100068: Right_Shoulder_jnt
+    100070: RightFoot
+    100072: RightForeArm
+    100074: RightHand
+    100076: RightHand_Pinky4
+    100078: RightHandIndex1
+    100080: RightHandIndex2
+    100082: RightHandIndex2 1
+    100084: RightHandIndex3
+    100086: RightHandIndex3 1
+    100088: RightHandIndex4
+    100090: RightHandIndex4 1
+    100092: RightHandIndex6
+    100094: RightHandMiddle1
+    100096: RightHandMiddle2
+    100098: RightHandMiddle3
+    100100: RightHandMiddle4
+    100102: RightHandPinky1
+    100104: RightHandPinky2
+    100106: RightHandPinky3
+    100108: RightToeBase
+    100110: RightToeBase_End
+    100112: RightUpLeg
+    100114: Spine
+    100116: Spine_1
+    100118: Spine_2
+    400000: //RootNode
+    400002: Head
+    400004: HeadTop_End
+    400006: Hips
+    400008: Jaw
+    400010: Jaw_End
+    400012: LefLeg
+    400014: LefLeg 1
+    400016: Left_Shoulder_jnt
+    400018: LeftFoot
+    400020: LeftForeArm
+    400022: LeftHand
+    400024: LeftHandIndex1
+    400026: LeftHandIndex2
+    400028: LeftHandIndex2 1
+    400030: LeftHandIndex3
+    400032: LeftHandIndex3 1
+    400034: LeftHandIndex4
+    400036: LeftHandIndex4 1
+    400038: LeftHandIndex6
+    400040: LeftHandMiddle1
+    400042: LeftHandMiddle2
+    400044: LeftHandMiddle3
+    400046: LeftHandMiddle4
+    400048: LeftHandPinky1
+    400050: LeftHandPinky2
+    400052: LeftHandPinky3
+    400054: LeftHandPinky4
+    400056: LeftToeBase
+    400058: LeftToeBase_End
+    400060: LeftUpLeg
+    400062: Neck
+    400064: Neck1
+    400066: PowerMonster
+    400068: Right_Shoulder_jnt
+    400070: RightFoot
+    400072: RightForeArm
+    400074: RightHand
+    400076: RightHand_Pinky4
+    400078: RightHandIndex1
+    400080: RightHandIndex2
+    400082: RightHandIndex2 1
+    400084: RightHandIndex3
+    400086: RightHandIndex3 1
+    400088: RightHandIndex4
+    400090: RightHandIndex4 1
+    400092: RightHandIndex6
+    400094: RightHandMiddle1
+    400096: RightHandMiddle2
+    400098: RightHandMiddle3
+    400100: RightHandMiddle4
+    400102: RightHandPinky1
+    400104: RightHandPinky2
+    400106: RightHandPinky3
+    400108: RightToeBase
+    400110: RightToeBase_End
+    400112: RightUpLeg
+    400114: Spine
+    400116: Spine_1
+    400118: Spine_2
+    2100000: lambert11
+    2100002: lambert10
+    2100004: lambert7
+    2100006: lambert12
+    2100008: lambert15
+    2100010: lambert16
+    2100012: lambert13
+    2100014: lambert14
+    2100016: lambert17
+    2300000: //RootNode
+    2300002: PowerMonster
+    3300000: //RootNode
+    3300002: PowerMonster
+    4300000: Power_Monster
+    4300002: PowerMonster
+    4300004: PowerMonster_Rig:Power_Monster
+    9500000: //RootNode
+    13700000: PowerMonster
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Hips
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

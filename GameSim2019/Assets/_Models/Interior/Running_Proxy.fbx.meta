@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 5d51116e03a7eb24dbf4220dae28d251
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Head__End_jnt
+    100002: Head_CNTRL
+    100004: Head_jnt
+    100006: IKS
+    100008: INV_HEEL_Ankle_JNT
+    100010: INV_HEEL_Ball_JNT
+    100012: INV_HEEL_End_JNT
+    100014: INV_HEEL_Tpe_JNT
+    100016: INV_HEELS
+    100018: Jaw_CNTRL
+    100020: Jaw_end_jnt
+    100022: Jaw_jnt
+    100024: L_Ankle_IK
+    100026: L_Ankle_jnt
+    100028: L_Arm_end_jnt
+    100030: L_Ball_IK
+    100032: L_Ear_1_jnt
+    100034: L_Ear_2_jnt
+    100036: L_Ear_end_jnt
+    100038: L_Elbow_jnt
+    100040: L_Foot_Ball
+    100042: L_Foot_CNTRL
+    100044: L_Foot_Toe
+    100046: L_Heel_jnt
+    100048: L_Hip_jnt
+    100050: L_Knee_jnt
+    100052: L_Shoulder_jnt
+    100054: L_Toe_End_jnt
+    100056: L_Toe_IK
+    100058: Master_CNTRL
+    100060: Pelvic_CNTRL
+    100062: Pelvis_jnt
+    100064: R_Ankle_IK
+    100066: R_Ankle_jnt
+    100068: R_Arm_end_jnt
+    100070: R_BALL_CNTRL
+    100072: R_Ball_IK
+    100074: R_Ear_1_jnt
+    100076: R_Ear_2_jnt
+    100078: R_Ear_end_jnt
+    100080: R_Elbow_jnt
+    100082: R_Foot_CNTRL
+    100084: R_Heel_jnt
+    100086: R_Hip_jnt
+    100088: R_INV_ANKLE_JNT
+    100090: R_INV_BALL_JNT
+    100092: R_INV_HEEL_END_JNT
+    100094: R_INV_TOE_JNT
+    100096: R_Knee_jnt
+    100098: R_Shoulder_jnt
+    100100: R_TOE_CNTRL
+    100102: R_Toe_End_jnt
+    100104: R_Toe_IK
+    100106: Root_jnt
+    100108: //RootNode
+    100110: Spine_1_jnt
+    100112: Spine_2_jnt
+    100114: Spine_3_jnt
+    100116: UpperBody_CNTRL
+    400000: Head__End_jnt
+    400002: Head_CNTRL
+    400004: Head_jnt
+    400006: IKS
+    400008: INV_HEEL_Ankle_JNT
+    400010: INV_HEEL_Ball_JNT
+    400012: INV_HEEL_End_JNT
+    400014: INV_HEEL_Tpe_JNT
+    400016: INV_HEELS
+    400018: Jaw_CNTRL
+    400020: Jaw_end_jnt
+    400022: Jaw_jnt
+    400024: L_Ankle_IK
+    400026: L_Ankle_jnt
+    400028: L_Arm_end_jnt
+    400030: L_Ball_IK
+    400032: L_Ear_1_jnt
+    400034: L_Ear_2_jnt
+    400036: L_Ear_end_jnt
+    400038: L_Elbow_jnt
+    400040: L_Foot_Ball
+    400042: L_Foot_CNTRL
+    400044: L_Foot_Toe
+    400046: L_Heel_jnt
+    400048: L_Hip_jnt
+    400050: L_Knee_jnt
+    400052: L_Shoulder_jnt
+    400054: L_Toe_End_jnt
+    400056: L_Toe_IK
+    400058: Master_CNTRL
+    400060: Pelvic_CNTRL
+    400062: Pelvis_jnt
+    400064: R_Ankle_IK
+    400066: R_Ankle_jnt
+    400068: R_Arm_end_jnt
+    400070: R_BALL_CNTRL
+    400072: R_Ball_IK
+    400074: R_Ear_1_jnt
+    400076: R_Ear_2_jnt
+    400078: R_Ear_end_jnt
+    400080: R_Elbow_jnt
+    400082: R_Foot_CNTRL
+    400084: R_Heel_jnt
+    400086: R_Hip_jnt
+    400088: R_INV_ANKLE_JNT
+    400090: R_INV_BALL_JNT
+    400092: R_INV_HEEL_END_JNT
+    400094: R_INV_TOE_JNT
+    400096: R_Knee_jnt
+    400098: R_Shoulder_jnt
+    400100: R_TOE_CNTRL
+    400102: R_Toe_End_jnt
+    400104: R_Toe_IK
+    400106: Root_jnt
+    400108: //RootNode
+    400110: Spine_1_jnt
+    400112: Spine_2_jnt
+    400114: Spine_3_jnt
+    400116: UpperBody_CNTRL
+    2100000: lambert1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Running
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

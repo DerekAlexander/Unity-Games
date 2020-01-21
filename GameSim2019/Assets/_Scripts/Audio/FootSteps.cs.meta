@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fcd9ef1a866afa145835bb6f75591f70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grassStep: {fileID: 8300000, guid: acd66d661b101cb43b76866a445c0fc6, type: 3}
+  - woodStep: {fileID: 8300000, guid: def31342aff941948a0e8fe589e73701, type: 3}
+  - waterStep: {fileID: 8300000, guid: 8f0cd58a66ff9634fb971621fa6badc6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

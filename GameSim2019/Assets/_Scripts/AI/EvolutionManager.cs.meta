@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab53f9a28f6fa5542b8d7eb8b648beb6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - speedyBlobie: {fileID: 1712008766734770, guid: e6465dc9b235c964dbf9acf33c18c372,
+      type: 3}
+  - strongBlobie: {instanceID: 0}
+  - jumpyBlobie: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
